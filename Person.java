@@ -3,4 +3,5 @@ public Person{
 	private int age;
 	
 	System.out.println("lalala");
+	System.out.println("hahaha");
 }
