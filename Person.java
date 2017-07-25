@@ -4,4 +4,5 @@ public Person{
 	
 	System.out.println("lalala");
 	System.out.println("hehehe");
+	System.out.println("hahaha");
 }
